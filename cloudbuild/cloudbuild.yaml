@@ -2,7 +2,3 @@ steps:
 - name: "gcr.io/cloud-builders/gcloud"
   args: ["app", "deploy"]
 timeout: "1600s"
-<<<<<<< HEAD:cloudbuild/cloudbuild.yaml
-#
-=======
->>>>>>> 74b5b55f2036f103ebbc3711bee6f9e792146ed4:cloudbuild.yaml
